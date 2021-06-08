@@ -12,6 +12,7 @@ HipaccVX: wedding of OpenVX and DSL-based code generation
 Özkan, M.A., Ok, B., Qiao, B., Teich, J., & Hannig, F. (2020). HipaccVX: Wedding of OpenVX and DSL-based Code Generation. Journal of Real-Time Image Processing, 18 (2021): 765–777. https://dx.doi.org/10.1007/s11554-020-01015-5
 
 (Springer) Open Access Link: https://rdcu.be/cl8KK
+
 Arxiv: https://arxiv.org/pdf/2008.11476.pdf
 
 Bibtex:
