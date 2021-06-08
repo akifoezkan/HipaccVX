@@ -17,7 +17,7 @@ Arxiv: https://arxiv.org/pdf/2008.11476.pdf
 
 Bibtex:
 
-@article{faucris.241895233,
+@article{
  author = {Özkan, Mehmet Akif and Ok, Burak and Qiao, Bo and Teich, Jürgen and Hannig, Frank},
  doi = {10.1007/s11554-020-01015-5},
  journal = {Journal of Real-Time Image Processing},
